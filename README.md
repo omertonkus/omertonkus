@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I'm @omertonkus
-- 🔭 I’m currently working on Pyton & Django
+- 🔭 I’m currently working on Python & Django
 - 🌱 I’m currently learning Django
 <!--
 **omertonkus/omertonkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
