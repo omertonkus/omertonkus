@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omertonkus&label=Profile%20views&color=0e75b6&style=flat" alt="omertonkus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omertonkus" alt="omertonkus" /></a> </p>
-
 - 🔭 I’m currently working on **Python & Django**
 
 - 🌱 I’m currently learning **Django**
@@ -27,16 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omertonkus&" alt="omertonkus" /></p>
 
-**omertonkus/omertonkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👋 Hi, I'm @omertonkus
-- 🔭 I’m currently working on Pyton & Django
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
