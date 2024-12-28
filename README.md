@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omertonkus&label=Profile%20views&color=0e75b6&style=flat" alt="omertonkus" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **omertnks@gmail.com**
 
